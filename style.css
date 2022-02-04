@@ -1,0 +1,46 @@
+body{
+    background-repeat: no-repeat;
+   background-size: cover;
+    text-align: center;
+    
+}
+
+.heading{
+    width: 100%;
+    font-size: 30px;
+    margin: 0px;
+}
+
+#note{
+    font-size: 18px;
+}
+
+#input{
+    width: 400px;
+}
+
+h2{
+    width: 200px;
+    font-size: 20px;
+    text-align: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px black;
+    border: 8px , solid , white;
+    border-radius: 30px;
+}
+
+.copy_right_footer{
+    bottom: 0;
+    text-align: center;
+    background-color: gray;
+    color: white;
+    font-size: 20px;    
+    width: 100%;
+    margin: 0px;
+    position: fixed;   
+    width: 100%;   
+   
+    
+}
